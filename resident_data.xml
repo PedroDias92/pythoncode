@@ -1,0 +1,157 @@
+<storeCollection>
+    <store benId="500043" id="37" currency="EUR">
+        <date day="2018-03-28">
+            <sales SalesAmount="2732.63">
+                <sale time="11:26:06">
+                    <id>VDC/537229745</id>
+                    <ticketAmount>17.46</ticketAmount>
+                    <feeAmount>0.00</feeAmount>
+                    <headerDiscountAmount>0.00</headerDiscountAmount>
+                    <ticketRow>
+                        <rowId>1</rowId>
+                        <SKU typeCode="A">
+                            <style>12GLE1B47</style>
+                            <collection>17P</collection>
+                            <size>L</size>
+                            <color>927</color>
+                        </SKU>
+                        <soldQty>1</soldQty>
+                        <itemAmount>17.46</itemAmount>
+                        <rowDiscountAmount>7.49</rowDiscountAmount>
+                        <itemMediumCost>9.70</itemMediumCost>
+                        <taxPercentage>23.00</taxPercentage>
+                        <taxAmount>3.26</taxAmount>
+                    </ticketRow>
+                </sale>
+                <sale time="11:28:56">
+                    <id>VDC/537229746</id>
+                    <ticketAmount>31.38</ticketAmount>
+                    <feeAmount>0.00</feeAmount>
+                    <headerDiscountAmount>0.00</headerDiscountAmount>
+                    <ticketRow>
+                        <rowId>1</rowId>
+                        <SKU typeCode="A">
+                            <style>3JD7C5196</style>
+                            <collection>17P</collection>
+                            <size>M</size>
+                            <color>100</color>
+                        </SKU>
+                        <soldQty>-1</soldQty>
+                        <itemAmount>11.86</itemAmount>
+                        <rowDiscountAmount>5.09</rowDiscountAmount>
+                        <itemMediumCost>6.80</itemMediumCost>
+                        <taxPercentage>23.00</taxPercentage>
+                        <taxAmount>2.22</taxAmount>
+                    </ticketRow>
+                    <ticketRow>
+                        <rowId>2</rowId>
+                        <SKU typeCode="A">
+                            <style>5EW75Q600</style>
+                            <collection>17P</collection>
+                            <size>M</size>
+                            <color>101</color>
+                        </SKU>
+                        <soldQty>1</soldQty>
+                        <itemAmount>10.46</itemAmount>
+                        <rowDiscountAmount>4.49</rowDiscountAmount>
+                        <itemMediumCost>7.80</itemMediumCost>
+                        <taxPercentage>23.00</taxPercentage>
+                        <taxAmount>1.96</taxAmount>
+                    </ticketRow>
+                    <ticketRow>
+                        <rowId>3</rowId>
+                        <SKU typeCode="A">
+                            <style>3U1LC132N</style>
+                            <collection>17P</collection>
+                            <size>M</size>
+                            <color>101</color>
+                        </SKU>
+                        <soldQty>1</soldQty>
+                        <itemAmount>9.06</itemAmount>
+                        <rowDiscountAmount>3.89</rowDiscountAmount>
+                        <itemMediumCost>5.00</itemMediumCost>
+                        <taxPercentage>23.00</taxPercentage>
+                        <taxAmount>1.69</taxAmount>
+                    </ticketRow>
+                </sale>
+            </sales>
+        </date>
+
+        <date day="2018-03-29">
+            <sales SalesAmount="2732.63">
+                <sale time="11:26:06">
+                    <id>VDC/537229745</id>
+                    <ticketAmount>17.46</ticketAmount>
+                    <feeAmount>0.00</feeAmount>
+                    <headerDiscountAmount>0.00</headerDiscountAmount>
+                    <ticketRow>
+                        <rowId>1</rowId>
+                        <SKU typeCode="A">
+                            <style>12GLE1B47</style>
+                            <collection>17P</collection>
+                            <size>L</size>
+                            <color>927</color>
+                        </SKU>
+                        <soldQty>1</soldQty>
+                        <itemAmount>17.46</itemAmount>
+                        <rowDiscountAmount>7.49</rowDiscountAmount>
+                        <itemMediumCost>9.70</itemMediumCost>
+                        <taxPercentage>23.00</taxPercentage>
+                        <taxAmount>3.26</taxAmount>
+                    </ticketRow>
+                </sale>
+                <sale time="11:28:56">
+                    <id>VDC/537229746</id>
+                    <ticketAmount>31.38</ticketAmount>
+                    <feeAmount>0.00</feeAmount>
+                    <headerDiscountAmount>0.00</headerDiscountAmount>
+                    <ticketRow>
+                        <rowId>1</rowId>
+                        <SKU typeCode="A">
+                            <style>3JD7C5196</style>
+                            <collection>17P</collection>
+                            <size>M</size>
+                            <color>100</color>
+                        </SKU>
+                        <soldQty>1</soldQty>
+                        <itemAmount>11.86</itemAmount>
+                        <rowDiscountAmount>5.09</rowDiscountAmount>
+                        <itemMediumCost>6.80</itemMediumCost>
+                        <taxPercentage>23.00</taxPercentage>
+                        <taxAmount>2.22</taxAmount>
+                    </ticketRow>
+                    <ticketRow>
+                        <rowId>2</rowId>
+                        <SKU typeCode="A">
+                            <style>5EW75Q600</style>
+                            <collection>17P</collection>
+                            <size>M</size>
+                            <color>101</color>
+                        </SKU>
+                        <soldQty>1</soldQty>
+                        <itemAmount>10.46</itemAmount>
+                        <rowDiscountAmount>4.49</rowDiscountAmount>
+                        <itemMediumCost>7.80</itemMediumCost>
+                        <taxPercentage>23.00</taxPercentage>
+                        <taxAmount>1.96</taxAmount>
+                    </ticketRow>
+                    <ticketRow>
+                        <rowId>3</rowId>
+                        <SKU typeCode="A">
+                            <style>3U1LC132N</style>
+                            <collection>17P</collection>
+                            <size>M</size>
+                            <color>101</color>
+                        </SKU>
+                        <soldQty>1</soldQty>
+                        <itemAmount>9.06</itemAmount>
+                        <rowDiscountAmount>3.89</rowDiscountAmount>
+                        <itemMediumCost>5.00</itemMediumCost>
+                        <taxPercentage>23.00</taxPercentage>
+                        <taxAmount>1.69</taxAmount>
+                    </ticketRow>
+                </sale>
+            </sales>
+        </date>
+    </store>
+</storeCollection>
